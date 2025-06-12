@@ -33,36 +33,6 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e criar soluç
 
 ---
 
-## ✨ Projetos em Destaque
-
-<table border="0" cellpadding="10">
-  <tr width="100%">
-    <td width="50%" valign="top">
-      <h3><strong>Portfolio com React</strong></h3>
-      <p>Meu portfólio pessoal desenvolvido com React para apresentar minhas habilidades e projetos de uma forma moderna e interativa.</p>
-      <a href="https://github.com/wernnon">Acessar Repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><strong>API com Node.js e TypeScript</strong></h3>
-      <p>Uma API RESTful robusta construída com Node.js, TypeScript e Express, implementando operações de CRUD (Create, Read, Update, Delete).</p>
-      <a href="https://github.com/wernnon/api-node-typescript">Acessar Repositório</a>
-    </td>
-  </tr>
-  <tr width="100%">
-    <td width="50%" valign="top">
-      <h3><strong>Decodificador de Texto</strong></h3>
-      <p>Um desafio de lógica de programação da Alura (Challenge ONE) onde criei um decodificador de texto funcional usando HTML, CSS e JavaScript.</p>
-      <a href="https://github.com/wernnon/decodificador-de-texto">Acessar Repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><strong>Formulário Multi-Etapas</strong></h3>
-      <p>Um componente de formulário com múltiplos passos, desenvolvido em React, que melhora a experiência do usuário em cadastros complexos.</p>
-      <a href="https://github.com/wernnon/Formulario-Multi-Etapas-React">Acessar Repositório</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📫 Entre em Contato
 
