@@ -1,16 +1,76 @@
-## Hi there 👋
+# Olá, eu sou o Wernnon! 👋
 
-<!--
-**wernnon/wernnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full-Stack
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por transformar ideias em código e criar soluções digitais. Atualmente morando em Porto Velho, RO - Brasil. 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Tenho foco em tecnologias modernas como **React, Node.js e TypeScript**.
+- 🚀 Buscando constantemente novos desafios para aprimorar minhas habilidades e construir projetos de alto impacto.
+- 🌱 Aberto a colaborações e novas oportunidades na área de desenvolvimento.
+
+---
+
+## 🚀 Habilidades e Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/wernnon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wernnon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wernnon&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+---
+
+## ✨ Projetos em Destaque
+
+<table border="0" cellpadding="10">
+  <tr width="100%">
+    <td width="50%" valign="top">
+      <h3><strong>Portfolio com React</strong></h3>
+      <p>Meu portfólio pessoal desenvolvido com React para apresentar minhas habilidades e projetos de uma forma moderna e interativa.</p>
+      <a href="https://github.com/wernnon">Acessar Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><strong>API com Node.js e TypeScript</strong></h3>
+      <p>Uma API RESTful robusta construída com Node.js, TypeScript e Express, implementando operações de CRUD (Create, Read, Update, Delete).</p>
+      <a href="https://github.com/wernnon/api-node-typescript">Acessar Repositório</a>
+    </td>
+  </tr>
+  <tr width="100%">
+    <td width="50%" valign="top">
+      <h3><strong>Decodificador de Texto</strong></h3>
+      <p>Um desafio de lógica de programação da Alura (Challenge ONE) onde criei um decodificador de texto funcional usando HTML, CSS e JavaScript.</p>
+      <a href="https://github.com/wernnon/decodificador-de-texto">Acessar Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><strong>Formulário Multi-Etapas</strong></h3>
+      <p>Um componente de formulário com múltiplos passos, desenvolvido em React, que melhora a experiência do usuário em cadastros complexos.</p>
+      <a href="https://github.com/wernnon/Formulario-Multi-Etapas-React">Acessar Repositório</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Entre em Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/wernnon-ruiz-ba097b254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:ruizwernnon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
