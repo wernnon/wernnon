@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e criar soluç
 
 - 💡 Tenho foco em tecnologias modernas como **React, Node.js e TypeScript**.
 - 🚀 Buscando constantemente novos desafios para aprimorar minhas habilidades e construir projetos de alto impacto.
-- 🌱 Aberto a colaborações e novas oportunidades na área de desenvolvimento.
+- 🌱 Aberto a colaborações e novas oportunidades na área de desenvolvimento de projetos.
 
 ---
 
