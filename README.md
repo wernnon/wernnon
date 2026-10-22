@@ -29,14 +29,12 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 Aplicativo desktop colaborativo criado para preparar contexto de código para IAs (estimativa de tokens e higienização) e executar diagnósticos automáticos em bases de código, otimizando o tempo e a produtividade do desenvolvedor.
 
 ## 📊 Estatísticas do GitHub
-
 <p align="center">
   <a href="https://github.com/wernnon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wernnon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wernnon&show_icons=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wernnon&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
-
 ## 📫 Entre em Contato
 
 <p align="left">
