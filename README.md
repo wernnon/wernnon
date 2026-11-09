@@ -25,6 +25,15 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 **[Dev Automation Kit](https://alanclimaco.github.io/dev-automation-kit-web/)**
 Aplicativo desktop colaborativo criado para preparar contexto de código para IAs (estimativa de tokens e higienização) e executar diagnósticos automáticos em bases de código, otimizando o tempo e a produtividade do desenvolvedor.
 
+**Construindo Campeões**  
+  Sistema de gestão esportiva desenvolvido como serviço público para a Prefeitura Municipal de Porto Velho (SMTI), voltado para a organização e acompanhamento de iniciativas esportivas municipais.
+
+**[WLW_RESERVE](https://github.com/wernnon/WLW_RESERVE)**  
+  Sistema desenvolvido em **TypeScript** com o propósito de gerenciar o agendamento e a reserva de espaços para eventos.
+
+**[Template TypeScript API](https://github.com/wernnon/template_typscript_api)**  
+  Boilerplate e estrutura base em **TypeScript** desenvolvida para agilizar o setup e a padronização na criação de APIs backend.
+
 ## Entre em Contato
 
 <p align="left">
